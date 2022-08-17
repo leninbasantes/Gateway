@@ -1,0 +1,9 @@
+Rest creados:
+En BDDT de producci�n en http sites-available
+PUERTO ASIGNADO: 55645
+En pm2 se llama ALCANTARILLAS.
+
+POST MENSAJES
+http://iot-api.constecoin.com/api/alcantarillas/saveMensajeAlcantarilla
+POST ALARMAS
+http://iot-api.constecoin.com/api/alcantarillas/saveAlarmaAlcantarilla
